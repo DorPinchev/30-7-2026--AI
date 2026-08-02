@@ -1,0 +1,9 @@
+#START
+
+import time
+for i in range(5,0,-1):
+    print(i)
+    time.sleep(1)
+print("0 - Launch!!")
+
+#STOP
